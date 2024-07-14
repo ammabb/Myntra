@@ -871,6 +871,17 @@ footer section, footer hr{
     #section_5, #section_6{
         display: none;
     }
+    .plo {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 600px; /* Set a height for the container */
+}
+
+.plo img {
+    max-width: 100%; /* Ensure the image does not exceed the container's width */
+    max-height: 100%; /* Ensure the image does not exceed the container's height */
+}
 
 
     /* WOMEN SECTION */
