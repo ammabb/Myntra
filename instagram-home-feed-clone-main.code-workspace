@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "instagram-home-feed-clone-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
