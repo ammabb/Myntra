@@ -6,3 +6,4 @@ Our team, "SheCode Ninjas" has developed a prototype showcasing features that My
 5. Furthermore, we proposed a solution to increase user interest from various social media platforms to Myntra by integrating in-post links from Instagram. By incorporating clickable links in Instagram advertisements, users can explore different products shown in the photos and be redirected to similar product pages on Myntra. This approach aims to captivate customers' interest from Instagram and drive their engagement on the Myntra app.
 
 Our prototype includes the following Tech-Stacks:
+HTML, CSS, Javascript, Tailwind, CSS, 
